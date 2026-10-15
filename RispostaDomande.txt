@@ -1,0 +1,5 @@
+1: il working tree e la zona in cui il codice viene scritto senza essere salvato quando si 8sa il git add si salva e va nella staging area e con il commit si prepara per essere pushato in remote per essere accessibile a tutti.
+
+2: il git stash serve a conservare pezzi di codice che si vorranno usare in tempi futuri con il fecth si richiama quello stash mentre con il merge si unisce il pezzo di stash al resto del codice pronto ad essere mandato in remote.
+
+3: quando viene creata una Issue il programmatore crea un branch nel codice per sistemare, implementare tale richiesta quando si avrà fatto il commit e il push si farà su GitHub una pull request per vedere le modifiche fatte e visionare se il problema e stato risolto verificato il tutto si potrà mergare con il resto del codice.
